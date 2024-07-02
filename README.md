@@ -1,10 +1,15 @@
-# GregsWorkout
-A. Greg's Workout
+# Greg's Workout
+
+
 
 time limit per test2 seconds
+
 memory limit per test256 megabytes
+
 inputstandard input
+
 outputstandard output
+
 
 Greg is a beginner bodybuilder. Today the gym coach gave him the training plan. All it had was n integers a1, a2, ..., an. These numbers mean that Greg needs to do exactly n exercises today. Besides, Greg should repeat the i-th in order exercise ai times.
 
@@ -22,27 +27,41 @@ It is guaranteed that the input is such that the answer to the problem is unambi
 
 
 Examples
+
 input
 
 2
 2 8
 
 output
+
 biceps
 
+++++++++++
+
 input
+
 3
+
 5 1 10
 
 output
+
 back
 
+++++++++++
+
 input
+
 7
+
 3 3 2 7 9 6 8
+
 output
+
 chest
 
++++++++++++
 
 Note
 In the first sample Greg does 2 chest, 8 biceps and zero back exercises, so the biceps gets the most exercises.
