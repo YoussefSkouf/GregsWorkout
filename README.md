@@ -22,20 +22,25 @@ It is guaranteed that the input is such that the answer to the problem is unambi
 
 
 Examples
-inputCopy
+input
+
 2
 2 8
-outputCopy
+
+output
 biceps
-inputCopy
+
+input
 3
 5 1 10
-outputCopy
+
+output
 back
-inputCopy
+
+input
 7
 3 3 2 7 9 6 8
-outputCopy
+output
 chest
 
 
